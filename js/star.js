@@ -28,3 +28,5 @@ Star.prototype.reset = function() {
     this.y = Math.round(tileHeight * getRandom(1, 3) - tileHeight / 4);
     this.speed = getRandom(100, 400);
 };
+
+// TODO: Create a reason for stars. Create a timer and ability to locally save stars collected for High Score

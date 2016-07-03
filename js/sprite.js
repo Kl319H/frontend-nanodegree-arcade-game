@@ -33,3 +33,5 @@ Sprite.prototype.collision = function() {
             }
         });
     }
+
+//TODO: Sprites are almost unusable as currently sized. Resize all sprites and create a sprite sheet. WIll have to refactor all code to reflect changes

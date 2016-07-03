@@ -29,3 +29,5 @@ Enemy.prototype.reset = function() {
     this.y = Math.round(tileHeight * getRandom(1, 3) - tileHeight / 3);
     this.speed = getRandom(100, 400);
 };
+
+// TODO: Fix the buggy bug collision. Bugs can overlap even with the Enemy.prototype.onCollision code modification of -20. 

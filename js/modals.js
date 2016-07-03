@@ -42,3 +42,5 @@ GameModal.hide = function() {
 }
 
 GameModal.init();
+
+// TODO: Install bootstrap tp create better looking modals including a start screen modal with character selection options
