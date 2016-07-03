@@ -3,7 +3,7 @@ Frontend Nanodegree Arcade Game
 
 This is the third project for my Udacity Frontend Web Developer Nanodegree curriculum. The purpose of this project is to showcase my Object-Oriented JavaScript and HTML5 Canvas skills. Udacity made it fun to learn Object-Oriented JavaScript and HTML5 Canvas by assigning a game as a project.
 
-Play my arcade game online at [text here](url here)
+Play my arcade game online [here](http://Kl319H.github.io)
 
 ## Objective
 The object of the game is to collect as many stars as possible and make it across the cobblestone path. The challenge is to avoid the Enemies.
