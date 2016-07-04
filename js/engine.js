@@ -94,7 +94,7 @@ var tileHeight = 83;
         'images/grass-block.png',
         'images/enemy-bug.png',
         'images/char-princess-girl.png',
-        'images/star.png'
+        'images/Star.png'
     ]);
     Resources.onReady(init);
 
