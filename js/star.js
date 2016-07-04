@@ -1,7 +1,7 @@
 var Star = function() {
     var x = -tileWidth;
     var y = Math.round(tileHeight * getRandom(1, 3) - tileHeight / 4);
-    Sprite.call(this, 'images/star.png', x, y);
+    Sprite.call(this, 'images/Star.png', x, y);
     this.speed = getRandom(100, 400);
     this.name = 'star';
 };
